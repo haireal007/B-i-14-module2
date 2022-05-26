@@ -1,7 +1,5 @@
 package bubbleSort;
 
-import static bubbleSort.BubbleSort.list;
-
 public class BubbleSort {
     static int[] list = {1, 24, -35, 567, 342, -768, 656, 423, 34, 56, 213, 6, -1};
 
@@ -20,6 +18,8 @@ public class BubbleSort {
             }
         }
     }
+
+
 }
 
 
